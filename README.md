@@ -1,16 +1,12 @@
 # growit
 
-A new Flutter project.
+![1223](https://github.com/MashaheerJaffry/growIt/assets/83124766/f9388616-d6a3-4950-a396-dc41622bab28)
 
-## Getting Started
+Grow It is an app that deals with the agriculture field by buying and selling nurseries
+products like flowers, and plants. In Grow It you find agriculture professionals that post Ads
+related to their Products. You don’t go to the nursery to buy Plants. you can order them by just
+sitting at your home. This app plays a mediator role between the user and the seller. Our users can
+see the product and contact them by their Profile details and comments on store ads and
+rate them according to their satisfaction. Grow It is a social media platform for users who
+are interested in agricultural products.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
