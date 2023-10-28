@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "88322219558",
+    "project_id": "flora-ce7c4",
+    "storage_bucket": "flora-ce7c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88322219558:android:beb65a035e989ad62750e7",
+        "android_client_info": {
+          "package_name": "com.example.growit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88322219558-q3p484q9bs7g40dctqkkegomc51j0hqq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.growit",
+            "certificate_hash": "5ed84b4759c1af4e951920b511af1b2a62fd043f"
+          }
+        },
+        {
+          "client_id": "88322219558-t4tm21sag77d21ft29iorjl6fd88jh2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJWnSLPEWulW3kUldV8dQEzvsndcOAad8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88322219558-t4tm21sag77d21ft29iorjl6fd88jh2d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
